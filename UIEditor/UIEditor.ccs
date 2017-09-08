@@ -1,0 +1,36 @@
+<Solution>
+  <PropertyGroup Name="UIEditor" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Background">
+          <Project Name="MainScene.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="Building">
+          <Image Name="house.png" />
+          <Image Name="tavarn.png" />
+          <Image Name="castle.png" />
+          <Image Name="farm.png" />
+          <Image Name="tower.png" />
+          <Image Name="shop.png" />
+          <Image Name="boat.png" />
+        </Folder>
+        <Folder Name="Font">
+          <TTF Name="msyhbd.ttf" />
+        </Folder>
+        <Folder Name="Title">
+          <Image Name="add.png" />
+          <Image Name="background.jpg" />
+          <Image Name="coin.png" />
+          <Image Name="diamond.png" />
+          <Image Name="loading_bar_fill.png" />
+          <Image Name="loading_empty.png" />
+          <Image Name="MainIcon.png" />
+          <Image Name="title_bar.png" />
+          <Image Name="water.png" />
+          <Image Name="bottom_highlight2.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
